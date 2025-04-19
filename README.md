@@ -1,6 +1,5 @@
 ## 📦 `README.md` – **TCP Lern- & Testumgebung für Auszubildende**
 
-```markdown
 # 🧠 TCP Lernserver – interaktive Ausbildung per Netzwerk
 
 Ein voll funktionsfähiger TCP-Server mit grafischer und konsolenbasierter Clientanbindung – speziell für die Ausbildung von **Fachinformatiker:innen Anwendungsentwicklung** entwickelt.  
