@@ -5,8 +5,6 @@
 Ein voll funktionsfähiger TCP-Server mit grafischer und konsolenbasierter Clientanbindung – speziell für die Ausbildung von **Fachinformatiker:innen Anwendungsentwicklung** entwickelt.  
 Ziel: Spielerisch und praktisch mit Themen wie Python, Netzwerk, Dateien, CMD-Befehlen und Mini-Spielen lernen – **im echten Client-Server-Umfeld!**
 
----
-
 ## 🚀 Features
 
 | Kategorie          | Funktionen                                                  |
@@ -19,8 +17,6 @@ Ziel: Spielerisch und praktisch mit Themen wie Python, Netzwerk, Dateien, CMD-Be
 | ✅ GUI & Console    | Konsolen-Client & moderne Tkinter-GUI mit Statusanzeige     |
 | 🛠 Server-Steuerung | `restart`, `shutdown`, Live-Statusfarben im GUI             |
 
----
-
 ## 🖥 Aufbau
 
 - `tcp_server.py` – Hauptserver mit allen Features
@@ -28,8 +24,6 @@ Ziel: Spielerisch und praktisch mit Themen wie Python, Netzwerk, Dateien, CMD-Be
 - `tcp_gui.py` – Grafischer Client mit Antwortanzeige und Statusanzeige
 - `tcp_suite.py` – Startet Server & GUI gemeinsam
 - (Optional: Modularisierung in `utils.py`, `handler.py` etc. verfügbar)
-
----
 
 ## 🎯 Warum per TCP?
 
@@ -43,8 +37,6 @@ Ziel: Spielerisch und praktisch mit Themen wie Python, Netzwerk, Dateien, CMD-Be
 - 🧩 Trennung von Client & Server = echte Architektur wie in der Praxis  
 - 🛜 Vorbereitung auf spätere Server-/Service-Entwicklung
 
----
-
 ## 🎓 Lernziele
 
 - **Python-Grundlagen interaktiv lernen** (Variablen, Funktionen, Rechnen, etc.)
@@ -53,8 +45,6 @@ Ziel: Spielerisch und praktisch mit Themen wie Python, Netzwerk, Dateien, CMD-Be
 - **Quizzes & Info-Module** mit Bewertungssystem
 - **Einfache Netzwerkgrundlagen begreifen**
 - **Client-Server-Architektur praktisch erleben**
-
----
 
 ## ✅ Starten
 
@@ -73,8 +63,6 @@ python tcp_server.py
 python tcp_client.py
 python tcp_gui.py
 ```
-
----
 
 ## 🧠 Beispielbefehle
 
@@ -98,8 +86,6 @@ cd unterordner
 cat datei.txt
 ```
 
----
-
 ## ❤️ Für wen ist das gedacht?
 
 - Azubis Fachinformatik AE/SE
@@ -107,18 +93,12 @@ cat datei.txt
 - Dozierende oder Schulungen im Bereich Python & Netzwerke
 - Jede:r, der interaktiv Lernen & Entwickeln will
 
----
-
 ## 📄 Lizenz
 
 MIT – Frei nutzbar, anpassbar, erweiterbar.
-
----
 
 ## 📌 Hinweis
 
 > Dieses Projekt wurde bewusst **als TCP-Netzwerkserver** umgesetzt – für maximalen Lerneffekt und Realitätsnähe.
 > 
 > Es zeigt, wie man einfache, didaktische Inhalte als echtes Client-Server-System **modular, skalierbar und interaktiv** gestaltet.
-
-```
