@@ -1,6 +1,3 @@
-
----
-
 ## 📦 `README.md` – **TCP Lern- & Testumgebung für Auszubildende**
 
 ```markdown
